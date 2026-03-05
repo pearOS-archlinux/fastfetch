@@ -10,4 +10,4 @@ $(TARBALL):
 
 clean:
 	rm -rf build pkg
-	rm -f fastfetch-*.tar.gz src/src
+	rm -rf fastfetch-*.tar.gz src/src
