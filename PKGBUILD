@@ -2,7 +2,7 @@
 # Contributor: Mark Wagie <mark dot wagie at proton dot me>
 
 pkgname=fastfetch
-pkgver=2.59.0
+pkgver=26.3
 pkgrel=1
 pkgdesc="A feature-rich and performance oriented neofetch like system information tool"
 url="https://github.com/fastfetch-cli/fastfetch"
